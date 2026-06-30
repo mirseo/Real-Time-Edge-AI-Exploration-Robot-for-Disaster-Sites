@@ -16,6 +16,9 @@ and was developed as an assignment for an edge computing course at the universit
 4. Remote control via WS and WebRTC
 5. LLM summarization
 
+### Preview
+https://github.com/user-attachments/assets/ce59f27c-b4d3-4639-b9f8-74094c5282a0
+
 ### Description
 This section provides a detailed explanation of the relevant technology stack used in this project.
 

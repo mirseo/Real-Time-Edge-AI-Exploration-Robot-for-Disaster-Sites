@@ -16,6 +16,9 @@
 4. WS, WebRTC 기반 원격 제어
 5. LLM 요약
 
+### 데모 영상
+https://github.com/user-attachments/assets/ce59f27c-b4d3-4639-b9f8-74094c5282a0
+
 ### 설명
 이 프로젝트를 수행함에 있어서, 관련 기술 스택의 세부 설명입니다.
 
